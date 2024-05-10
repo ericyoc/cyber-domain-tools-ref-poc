@@ -2,9 +2,13 @@
 
 This repository provides an overview of various cyber analysis tools used in different domains of cybersecurity. 
 
-## Motivating Article
+## Motivating Article and Related Work
 Sarker, K. U., Yunus, F., & Deraman, A. (2023). Penetration Taxonomy: A Systematic Review on the Penetration Process, Framework, Standards, Tools, and Scoring Methods. Sustainability, 15(13), 10471.
 https://www.mdpi.com/2079-9292/12/5/1229
+
+PentestTools https://github.com/arch3rPro/PentestTools
+
+Penetration-Testing https://github.com/wtsxDev/Penetration-Testing
 
 ## Tools Reference
 The tools are categorized into four main tables:
