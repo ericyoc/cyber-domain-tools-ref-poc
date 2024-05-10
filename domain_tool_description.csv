@@ -1,0 +1,121 @@
+Cyber Analysis Domain,Cyber Tool,Tool Description
+Reverse Engineering (Firmware),BinWalk,"Firmware analysis tool
+Tool Type: Firmware Analysis
+Download: https://github.com/ReFirmLabs/binwalk"
+Reverse Engineering (Firmware),QEMU,"Emulation and virtualization tool
+Tool Type: Emulation and Virtualization
+Download: https://www.qemu.org/download/"
+Reverse Engineering (Firmware),FAT-ng,"Firmware analysis toolkit
+Tool Type: Firmware Analysis
+Download: https://github.com/attify/firmware-analysis-toolkit"
+Reverse Engineering (Firmware),Firmwalker,"Firmware analysis script
+Tool Type: Firmware Analysis
+Download: https://github.com/craigz28/firmwalker"
+Malware Analysis,PE Studio,"PE file analysis tool
+Tool Type: PE File Analysis
+Download: https://www.winitor.com/"
+Malware Analysis,QEMU,"Emulation and virtualization tool
+Tool Type: Emulation and Virtualization
+Download: https://www.qemu.org/download/"
+Malware Analysis,Cuckoo Sandbox,"Automated malware analysis sandbox
+Tool Type: Malware Analysis Sandbox
+Download: https://cuckoosandbox.org/"
+Malware Analysis,Process Monitor (ProcMon),"System monitoring tool
+Tool Type: System Monitoring
+Download: https://docs.microsoft.com/en-us/sysinternals/downloads/procmon"
+Malware Analysis,OllyDbg,"Debugger for Windows binaries
+Tool Type: Debugger
+Download: http://www.ollydbg.de/"
+Malware Analysis,Fakenet-ng,"Network simulation tool
+Tool Type: Network Simulation
+Download: https://github.com/fireeye/flare-fakenet-ng"
+Malware Analysis,PEiD,"Packing detection tool
+Tool Type: Packing Detection
+Download: https://www.aldeid.com/wiki/PEiD"
+Malware Analysis,Detect It Easy (DIE),"Packing detection tool
+Tool Type: Packing Detection
+Download: https://github.com/horsicq/Detect-It-Easy"
+Malware Analysis,oletools,"Malicious document analysis tool
+Tool Type: Maldoc Analysis
+Download: https://github.com/decalage2/oletools"
+Malware Analysis,olevba,"VBA macro analysis tool
+Tool Type: Maldoc Analysis
+Download: https://github.com/decalage2/oletools/wiki/olevba"
+Malware Analysis,XLMMacroDeobfuscator,"Excel 4.0 macro deobfuscator
+Tool Type: Maldoc Analysis
+Download: https://github.com/DissectMalware/XLMMacroDeobfuscator"
+Malware Analysis,Yara,"Pattern matching tool
+Tool Type: Malware Analysis
+Download: https://github.com/VirusTotal/yara"
+Malware Analysis,signsrch,"Signature-based malware detection tool
+Tool Type: Malware Analysis
+Download: https://github.com/sherpya/signsrch"
+Software Exploitation Analysis,OllyDbg,"Debugger for Windows binaries
+Tool Type: Debugger
+Download: http://www.ollydbg.de/"
+Software Exploitation Analysis,x64dbg,"Debugger for Windows binaries
+Tool Type: Debugger
+Download: https://x64dbg.com/"
+Software Exploitation Analysis,WinDbg,"Debugger for Windows binaries
+Tool Type: Debugger
+Download: https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools"
+Software Exploitation Analysis,GDB (GNU Debugger),"Debugger for Unix-based systems
+Tool Type: Debugger
+Download: https://www.gnu.org/software/gdb/"
+Software Exploitation Analysis,Metasploit,"Exploitation framework
+Tool Type: Exploitation Framework
+Download: https://www.metasploit.com/"
+Common Analysis Tools,Data Duplicator (DD command),"Data duplication and imaging tool
+Tool Type: Data Duplication
+Built-in tool in Unix-based systems"
+Common Analysis Tools,File command,"File type identification tool
+Tool Type: File Type Identification
+Built-in tool in Unix-based systems"
+Common Analysis Tools,Strings command,"String extraction tool
+Tool Type: String Extraction
+Built-in tool in Unix-based systems"
+Common Analysis Tools,IDA Pro,"Disassembler and debugger
+Tool Type: Disassembler and Decompiler
+Download: https://www.hex-rays.com/products/ida/"
+Common Analysis Tools,Ghidra,"Reverse engineering tool
+Tool Type: Disassembler and Decompiler
+Download: https://ghidra-sre.org/"
+Common Analysis Tools,Wireshark,"Network protocol analyzer
+Tool Type: Network Analysis
+Download: https://www.wireshark.org/"
+Common Analysis Tools,Burp Suite,"Web application security testing tool
+Tool Type: Web Application Security
+Download: https://portswigger.net/burp"
+Online Analysis Tools,Joe Sandbox,"Automated malware analysis platform
+Tool Type: Malware Analysis
+Access: https://www.joesecurity.org/"
+Online Analysis Tools,Any.Run,"Interactive malware analysis platform
+Tool Type: Malware Analysis
+Access: https://any.run/"
+Online Analysis Tools,Hybrid Analysis,"Malware analysis and threat intelligence platform
+Tool Type: Malware Analysis
+Access: https://www.hybrid-analysis.com/"
+Online Analysis Tools,URLhaus,"Malicious URL database
+Tool Type: Threat Intelligence
+Access: https://urlhaus.abuse.ch/"
+Online Analysis Tools,CyberChef,"Web-based data transformation tool
+Tool Type: Data Transformation
+Access: https://gchq.github.io/CyberChef/"
+Online Analysis Tools,VirusTotal,"Online malware analysis and threat intelligence platform
+Tool Type: Malware Analysis
+Access: https://www.virustotal.com/"
+Analysis Platforms,Radare2,"Reverse engineering framework
+Tool Type: Reverse Engineering
+Download: https://rada.re/n/radare2.html"
+Analysis Platforms,FLARE VM,"Reverse engineering and malware analysis framework
+Tool Type: Malware Analysis
+Download: https://github.com/fireeye/flare-vm"
+Analysis Platforms,Kali Linux,"Linux distribution for security testing and analysis
+Tool Type: Security Testing
+Download: https://www.kali.org/"
+Analysis Platforms,REMnux,"Linux distribution for reverse engineering and malware analysis
+Tool Type: Malware Analysis
+Download: https://remnux.org/"
+Analysis Platforms,Capa,"Malware analysis framework
+Tool Type: Malware Analysis
+Download: https://github.com/fireeye/capa"

@@ -1,0 +1,41 @@
+Cyber Analysis Domain,Cyber Tool,Reason for Cyber Analysis to Use It
+Reverse Engineering (Firmware),BinWalk,Identify firmware structure and contents
+Reverse Engineering (Firmware),QEMU,Analyze firmware behavior in a controlled environment
+Reverse Engineering (Firmware),FAT-ng,Streamline firmware analysis process
+Reverse Engineering (Firmware),Firmwalker,Identify potential security issues and sensitive information
+Malware Analysis,PE Studio,Understand PE file characteristics and potential malicious behavior
+Malware Analysis,QEMU,Analyze malware behavior in a controlled environment
+Malware Analysis,Cuckoo Sandbox,Understand malware functionality and interactions
+Malware Analysis,Process Monitor (ProcMon),Identify malware's interactions with the system
+Malware Analysis,OllyDbg,Understand malware's low-level behavior and code execution
+Malware Analysis,Fakenet-ng,Analyze malware's network communications and interactions
+Malware Analysis,PEiD,Identify packed or obfuscated malware
+Malware Analysis,Detect It Easy (DIE),Identify packed or obfuscated malware
+Malware Analysis,oletools,"Identify malicious macros, scripts, and shellcode in Office documents"
+Malware Analysis,olevba,Identify malicious VBA macros in Office documents
+Malware Analysis,XLMMacroDeobfuscator,Identify malicious Excel 4.0 macros
+Malware Analysis,Yara,Identify and classify malware based on specific patterns
+Malware Analysis,signsrch,Identify malware based on known signatures
+Software Exploitation Analysis,OllyDbg,Understand software's low-level behavior and code execution
+Software Exploitation Analysis,x64dbg,Understand software's low-level behavior and code execution
+Software Exploitation Analysis,WinDbg,Understand software's low-level behavior and code execution
+Software Exploitation Analysis,GDB (GNU Debugger),Understand software's low-level behavior and code execution
+Software Exploitation Analysis,Metasploit,Test software vulnerabilities and exploit them
+Common Analysis Tools,Data Duplicator (DD command),Preserve and analyze disk data
+Common Analysis Tools,File command,Determine the file type and format
+Common Analysis Tools,Strings command,Identify interesting strings and potential indicators
+Common Analysis Tools,IDA Pro,Understand binary code structure and functionality
+Common Analysis Tools,Ghidra,Understand binary code structure and functionality
+Common Analysis Tools,Wireshark,Understand network communication and protocols
+Common Analysis Tools,Burp Suite,Identify vulnerabilities and misconfigurations in web applications
+Online Analysis Tools,Joe Sandbox,Understand malware functionality and interactions
+Online Analysis Tools,Any.Run,Understand malware functionality and interactions
+Online Analysis Tools,Hybrid Analysis,Understand malware characteristics and associated threats
+Online Analysis Tools,URLhaus,Identify and investigate malicious URLs
+Online Analysis Tools,CyberChef,Manipulate and analyze data
+Online Analysis Tools,VirusTotal,Understand malware characteristics and associated threats
+Analysis Platforms,Radare2,Understand binary code structure and functionality
+Analysis Platforms,FLARE VM,Automate malware analysis tasks
+Analysis Platforms,Kali Linux,Perform various security testing and analysis tasks
+Analysis Platforms,REMnux,Analyze malware behavior and characteristics
+Analysis Platforms,Capa,Identify malware capabilities and behaviors

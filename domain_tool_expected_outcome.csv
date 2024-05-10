@@ -1,0 +1,41 @@
+Cyber Analysis Domain,Cyber Tool,Expected Outcome
+Reverse Engineering (Firmware),BinWalk,Understand firmware components and architecture
+Reverse Engineering (Firmware),QEMU,Observe firmware execution and interactions
+Reverse Engineering (Firmware),FAT-ng,Identify vulnerabilities and extract firmware components
+Reverse Engineering (Firmware),Firmwalker,Discover firmware vulnerabilities and misconfigurations
+Malware Analysis,PE Studio,Identify suspicious PE file attributes and indicators
+Malware Analysis,QEMU,Observe malware execution and interactions
+Malware Analysis,Cuckoo Sandbox,Generate detailed malware analysis reports
+Malware Analysis,Process Monitor (ProcMon),Trace malware's actions and system modifications
+Malware Analysis,OllyDbg,Identify malware's functionality and evasion techniques
+Malware Analysis,Fakenet-ng,Identify malware's command and control (C2) servers and network indicators
+Malware Analysis,PEiD,Determine the packing or obfuscation method used
+Malware Analysis,Detect It Easy (DIE),Determine the packing or obfuscation method used
+Malware Analysis,oletools,Detect and extract suspicious content from Office files
+Malware Analysis,olevba,Deobfuscate and understand the functionality of VBA macros
+Malware Analysis,XLMMacroDeobfuscator,Understand the functionality of obfuscated Excel 4.0 macros
+Malware Analysis,Yara,Detect malware variants and families
+Malware Analysis,signsrch,Detect specific malware variants or families
+Software Exploitation Analysis,OllyDbg,Identify vulnerabilities and exploit development opportunities
+Software Exploitation Analysis,x64dbg,Identify vulnerabilities and exploit development opportunities
+Software Exploitation Analysis,WinDbg,Identify vulnerabilities and exploit development opportunities
+Software Exploitation Analysis,GDB (GNU Debugger),Identify vulnerabilities and exploit development opportunities
+Software Exploitation Analysis,Metasploit,Assess the impact and feasibility of exploits
+Common Analysis Tools,Data Duplicator (DD command),Create a forensic copy of the disk for analysis
+Common Analysis Tools,File command,Identify file types for further analysis
+Common Analysis Tools,Strings command,Extract relevant strings for analysis
+Common Analysis Tools,IDA Pro,Identify interesting code segments and vulnerabilities
+Common Analysis Tools,Ghidra,Identify interesting code segments and vulnerabilities
+Common Analysis Tools,Wireshark,Identify suspicious network activities and indicators
+Common Analysis Tools,Burp Suite,Perform manual and automated security testing of web applications
+Online Analysis Tools,Joe Sandbox,Generate detailed malware analysis reports
+Online Analysis Tools,Any.Run,Interact with malware execution and observe behavior
+Online Analysis Tools,Hybrid Analysis,Obtain detailed malware analysis reports and threat intelligence
+Online Analysis Tools,URLhaus,Obtain threat intelligence on malicious URLs
+Online Analysis Tools,CyberChef,"Decode, encrypt, compress, and perform various data operations"
+Online Analysis Tools,VirusTotal,Obtain malware analysis reports and threat intelligence
+Analysis Platforms,Radare2,Identify interesting code segments and vulnerabilities
+Analysis Platforms,FLARE VM,Identify malware characteristics and behavior
+Analysis Platforms,Kali Linux,Conduct comprehensive security assessments and analyses
+Analysis Platforms,REMnux,Perform in-depth malware analysis and reverse engineering
+Analysis Platforms,Capa,Understand the functionality and intent of malware

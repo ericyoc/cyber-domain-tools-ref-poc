@@ -1,0 +1,41 @@
+Cyber Analysis Domain,Cyber Tool,Usage,File Type
+Reverse Engineering (Firmware),BinWalk,Extracts firmware components,Firmware
+Reverse Engineering (Firmware),QEMU,Emulates firmware environment,Firmware
+Reverse Engineering (Firmware),FAT-ng,Automates firmware analysis tasks,Firmware
+Reverse Engineering (Firmware),Firmwalker,Searches for interesting files and patterns,Firmware
+Malware Analysis,PE Studio,Analyzes PE file structure and properties,PE
+Malware Analysis,QEMU,Emulates malware environment,"PE, ELF, Mach-O"
+Malware Analysis,Cuckoo Sandbox,Analyzes malware behavior in a controlled environment,"PE, ELF, Mach-O"
+Malware Analysis,Process Monitor (ProcMon),Monitors system activities and process behavior,PE
+Malware Analysis,OllyDbg,Debugs and analyzes malware at the assembly level,PE
+Malware Analysis,Fakenet-ng,Simulates network services and Internet connectivity,N/A
+Malware Analysis,PEiD,"Detects common packers, cryptors, and compilers",PE
+Malware Analysis,Detect It Easy (DIE),"Detects packers, cryptors, and compilers","PE, ELF, Mach-O"
+Malware Analysis,oletools,Analyzes and extracts information from Microsoft Office files,Office Documents
+Malware Analysis,olevba,Extracts and analyzes VBA macros from Office documents,Office Documents
+Malware Analysis,XLMMacroDeobfuscator,Deobfuscates and analyzes Excel 4.0 macros,Excel Documents
+Malware Analysis,Yara,Defines and matches patterns in malware samples,"PE, ELF, Mach-O"
+Malware Analysis,signsrch,Searches for specific byte sequences in files,"PE, ELF, Mach-O"
+Software Exploitation Analysis,OllyDbg,Debugs and analyzes software at the assembly level,PE
+Software Exploitation Analysis,x64dbg,Debugs and analyzes software at the assembly level,PE
+Software Exploitation Analysis,WinDbg,Debugs and analyzes software at the assembly level,PE
+Software Exploitation Analysis,GDB (GNU Debugger),Debugs and analyzes software at the assembly level,ELF
+Software Exploitation Analysis,Metasploit,Develops and executes exploits against vulnerable systems,N/A
+Common Analysis Tools,Data Duplicator (DD command),Creates forensic disk images,N/A
+Common Analysis Tools,File command,Identifies file types based on file signatures,N/A
+Common Analysis Tools,Strings command,Extracts printable strings from files,N/A
+Common Analysis Tools,IDA Pro,Disassembles and analyzes binary code,"PE, ELF, Mach-O"
+Common Analysis Tools,Ghidra,Disassembles and analyzes binary code,"PE, ELF, Mach-O"
+Common Analysis Tools,Wireshark,Captures and analyzes network traffic,PCAP
+Common Analysis Tools,Burp Suite,Analyzes and tests web application security,N/A
+Online Analysis Tools,Joe Sandbox,Analyzes malware behavior in a cloud environment,"PE, ELF, Mach-O"
+Online Analysis Tools,Any.Run,Analyzes malware behavior in a web-based environment,"PE, ELF, Mach-O"
+Online Analysis Tools,Hybrid Analysis,Analyzes malware and provides threat intelligence,"PE, ELF, Mach-O"
+Online Analysis Tools,URLhaus,Provides information on malicious URLs,N/A
+Online Analysis Tools,CyberChef,Performs various data transformations and analyses,N/A
+Online Analysis Tools,VirusTotal,Analyzes malware samples and provides threat intelligence,"PE, ELF, Mach-O"
+Analysis Platforms,Radare2,"Disassembles, analyzes, and debugs binary code","PE, ELF, Mach-O"
+Analysis Platforms,FLARE VM,Provides tools and scripts for malware analysis,"PE, ELF, Mach-O"
+Analysis Platforms,Kali Linux,Provides a wide range of security tools,N/A
+Analysis Platforms,REMnux,Provides tools and scripts for malware analysis,"PE, ELF, Mach-O"
+Analysis Platforms,Capa,Detects capabilities and behaviors in executable files,"PE, ELF, Mach-O"
