@@ -1,6 +1,13 @@
 # Cyber Analysis Tools Reference
 
-This repository provides an overview of various cyber analysis tools used in different domains of cybersecurity. The tools are categorized into four main tables:
+This repository provides an overview of various cyber analysis tools used in different domains of cybersecurity. 
+
+
+## Motivating Article
+Sarker, K. U., Yunus, F., & Deraman, A. (2023). Penetration Taxonomy: A Systematic Review on the Penetration Process, Framework, Standards, Tools, and Scoring Methods. Sustainability, 15(13), 10471.
+https://www.mdpi.com/2079-9292/12/5/1229
+
+The tools are categorized into four main tables:
 
 1. **Cyber Analysis Domain, Tool, and Tool Description**: This table lists the cyber analysis domains, the tools used in each domain, and a brief description of each tool along with its download link or access information.
 
