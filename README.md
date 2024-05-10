@@ -111,7 +111,7 @@ The tools are categorized into four main tables:
 | Analysis Platforms | REMnux | Provides tools and scripts for malware analysis | PE, ELF, Mach-O |
 | Analysis Platforms | Capa | Detects capabilities and behaviors in executable files | PE, ELF, Mach-O |
 
-## Table 3: Cyber Analysis Domain, Tool, and Reason for Cyber Analysis to Use It
+## Table 3: Cyber Analysis Domain, Tool, and Reason for Cyber Analyst to Use It
 
 | Cyber Analysis Domain | Cyber Tool | Reason for Cyber Analysis to Use It |
 |-----------------------|------------|-------------------------------------|
