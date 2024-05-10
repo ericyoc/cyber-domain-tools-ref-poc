@@ -31,7 +31,7 @@ The tools are categorized into four main tables:
 | Reverse Engineering (Firmware) | Firmwalker | Firmware analysis script<br>Tool Type: Firmware Analysis<br>Download: https://github.com/craigz28/firmwalker |
 | Malware Analysis | PE Studio | PE file analysis tool<br>Tool Type: PE File Analysis<br>Download: https://www.winitor.com/ |
 | Malware Analysis | QEMU | Emulation and virtualization tool<br>Tool Type: Emulation and Virtualization<br>Download: https://www.qemu.org/download/ |
-| Malware Analysis | Cuckoo Sandbox | Automated malware analysis sandbox<br>Tool Type: Malware Analysis Sandbox<br>Download: https://cuckoosandbox.org/ |
+| Malware Analysis | Cuckoo Sandbox | Automated malware analysis sandbox<br>Tool Type: Malware Analysis Sandbox<br>Download: https://github.com/cuckoosandbox/cuckoo |
 | Malware Analysis | Process Monitor (ProcMon) | System monitoring tool<br>Tool Type: System Monitoring<br>Download: https://docs.microsoft.com/en-us/sysinternals/downloads/procmon |
 | Malware Analysis | OllyDbg | Debugger for Windows binaries<br>Tool Type: Debugger<br>Download: http://www.ollydbg.de/ |
 | Malware Analysis | Fakenet-ng | Network simulation tool<br>Tool Type: Network Simulation<br>Download: https://github.com/fireeye/flare-fakenet-ng |
