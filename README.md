@@ -191,3 +191,5 @@ This repository provides an overview of various cyber analysis tools used in dif
 | Analysis Platforms | Capa | Understand the functionality and intent of malware |
 
 These tables provide a comprehensive overview of the various cyber analysis tools, their usage, reasons for using them, and expected outcomes. They can serve as a reference for cybersecurity professionals and enthusiasts to explore and utilize the appropriate tools based on their specific analysis requirements.
+
+Disclaimer This repository is intended for educational and research purposes.
