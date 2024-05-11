@@ -10,7 +10,7 @@ PentestTools https://github.com/arch3rPro/PentestTools
 
 Penetration-Testing https://github.com/wtsxDev/Penetration-Testing
 
-Shodan Search Enginer https://www.shodan.io/
+Shodan Search Engine https://www.shodan.io/
 
 ## Tools Reference
 The tools are categorized into four main tables:
