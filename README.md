@@ -6,6 +6,8 @@ This repository provides an overview of various cyber analysis tools used in dif
 Sarker, K. U., Yunus, F., & Deraman, A. (2023). Penetration Taxonomy: A Systematic Review on the Penetration Process, Framework, Standards, Tools, and Scoring Methods. Sustainability, 15(13), 10471.
 https://www.mdpi.com/2079-9292/12/5/1229
 
+Bermejo Higuera J, Abad Aramburu C, Bermejo Higuera J-R, Sicilia Urban MA, Sicilia Montalvo JA. Systematic Approach to Malware Analysis (SAMA). Applied Sciences. 2020; 10(4):1360. https://doi.org/10.3390/app10041360
+
 PentestTools https://github.com/arch3rPro/PentestTools
 
 Penetration-Testing https://github.com/wtsxDev/Penetration-Testing
